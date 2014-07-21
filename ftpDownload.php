@@ -1,4 +1,5 @@
 <?php
+ini_set('max_execution_time', 6000);
 
 // define some variables
 $local_file = __DIR__.'/download.zip';
